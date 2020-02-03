@@ -49,42 +49,6 @@
 		"defname": "WallLamp"
 	},
 	{
-		"abr": "81mmmortar",
-		"price": 708,
-		"category": "Security",
-		"defname": "Turret_Mortar"
-	},
-	{
-		"abr": "81mmmortarshell(anti)",
-		"price": 2500,
-		"category": "Mortar shells",
-		"defname": "Shell_AntigrainWarhead"
-	},
-	{
-		"abr": "81mmmortarshell(emp)",
-		"price": 187,
-		"category": "Mortar shells",
-		"defname": "Shell_EMP"
-	},
-	{
-		"abr": "81mmmortarshell(foam)",
-		"price": 62,
-		"category": "Mortar shells",
-		"defname": "Shell_Firefoam"
-	},
-	{
-		"abr": "81mmmortarshell(he)",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "Shell_HighExplosive"
-	},
-	{
-		"abr": "81mmmortarshell(incendiary)",
-		"price": 71,
-		"category": "Mortar shells",
-		"defname": "Shell_Incendiary"
-	},
-	{
 		"abr": "acidant",
 		"price": 667,
 		"category": "Animal",
@@ -98,7 +62,7 @@
 	},
 	{
 		"abr": "advancedbattery",
-		"price": -10,
+		"price": 1408,
 		"category": "Power",
 		"defname": "Battery_Advanced"
 	},
@@ -161,6 +125,12 @@
 		"price": 3333,
 		"category": "Furniture",
 		"defname": "sd_adv_powergen_adv_geothermal_generator"
+	},
+	{
+		"abr": "advancedhelmet",
+		"price": 442,
+		"category": "Headgear",
+		"defname": "Apparel_AdvancedHelmet"
 	},
 	{
 		"abr": "advancedmechanoidchip",
@@ -355,6 +325,12 @@
 		"defname": "VG_antibiotics"
 	},
 	{
+		"abr": "antigrainwarhead",
+		"price": 2000,
+		"category": "Mortar shells",
+		"defname": "Shell_AntigrainWarhead"
+	},
+	{
 		"abr": "aominisunlamp",
 		"price": 49,
 		"category": "Furniture",
@@ -457,12 +433,6 @@
 		"defname": "WTH_ArmorModule"
 	},
 	{
-		"abr": "armorvest",
-		"price": 425,
-		"category": "Apparel",
-		"defname": "Apparel_FlakVest"
-	},
-	{
 		"abr": "artificialclavicle",
 		"price": 167,
 		"category": "Simple prostheses",
@@ -481,6 +451,12 @@
 		"defname": "ArtificialPelvis"
 	},
 	{
+		"abr": "assaultrifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "Gun_AssaultRifle"
+	},
+	{
 		"abr": "assaulter",
 		"price": 1200,
 		"category": "Animal",
@@ -497,6 +473,12 @@
 		"price": 67,
 		"category": "Rimatomics Product",
 		"defname": "ATOM"
+	},
+	{
+		"abr": "autopistol",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "Gun_Autopistol"
 	},
 	{
 		"abr": "auxiliaryai(agricultural)",
@@ -872,7 +854,7 @@
 	},
 	{
 		"abr": "biosolids",
-		"price": 0,
+		"price": 1,
 		"category": "Waste",
 		"defname": "Biosolids"
 	},
@@ -959,6 +941,12 @@
 		"price": 248,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Bo_Staff"
+	},
+	{
+		"abr": "bolt-actionrifle",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "Gun_BoltActionRifle"
 	},
 	{
 		"abr": "boltasklamp",
@@ -1274,9 +1262,15 @@
 	},
 	{
 		"abr": "centipede",
-		"price": 2900,
+		"price": 2000,
 		"category": "Animal",
 		"defname": "Mech_Centipede"
+	},
+	{
+		"abr": "chainshotgun",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChainShotgun"
 	},
 	{
 		"abr": "chandelier",
@@ -1303,6 +1297,18 @@
 		"defname": "Apparello_Chapel"
 	},
 	{
+		"abr": "chargelance",
+		"price": 2258,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeLance"
+	},
+	{
+		"abr": "chargerifle",
+		"price": 1683,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeRifle"
+	},
+	{
 		"abr": "checkeredtrousers",
 		"price": 281,
 		"category": "Pants",
@@ -1319,6 +1325,12 @@
 		"price": 42,
 		"category": "Simple Meals",
 		"defname": "grilledmeat"
+	},
+	{
+		"abr": "cheetah",
+		"price": 667,
+		"category": "Animal",
+		"defname": "ACPCheetah"
 	},
 	{
 		"abr": "cheetahmeat",
@@ -1394,7 +1406,7 @@
 	},
 	{
 		"abr": "chimera",
-		"price": 2750,
+		"price": 1375,
 		"category": "Animal",
 		"defname": "Mechanoid_Chimera"
 	},
@@ -1555,12 +1567,6 @@
 		"defname": "ComponentIndustrial"
 	},
 	{
-		"abr": "compositehelmet",
-		"price": 280,
-		"category": "Headgear",
-		"defname": "Apparel_AdvancedHelmet"
-	},
-	{
 		"abr": "compoststarter",
 		"price": 2,
 		"category": "Raw resources",
@@ -1681,6 +1687,12 @@
 		"defname": "Anon2CouchRight"
 	},
 	{
+		"abr": "cougar",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Cougar"
+	},
+	{
 		"abr": "cougarmeat",
 		"price": 3,
 		"category": "Meat",
@@ -1777,12 +1789,6 @@
 		"defname": "Deer"
 	},
 	{
-		"abr": "degtyarevdp",
-		"price": 750,
-		"category": "Ranged weapons",
-		"defname": "Gun_LMG"
-	},
-	{
 		"abr": "denture",
 		"price": 67,
 		"category": "Basic prostheses",
@@ -1856,7 +1862,7 @@
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
-		"price": 1200,
+		"price": 1667,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket"
 	},
@@ -2006,19 +2012,19 @@
 	},
 	{
 		"abr": "e15chargerifle",
-		"price": 1700,
+		"price": 1900,
 		"category": "Ranged weapons",
 		"defname": "Eccentric_Gun_E15CR"
 	},
 	{
 		"abr": "e16precisionchargerifle",
-		"price": 1942,
+		"price": 2717,
 		"category": "Ranged weapons",
 		"defname": "Eccentric_Gun_E16PR"
 	},
 	{
 		"abr": "e9cchargecarbine",
-		"price": 1400,
+		"price": 1683,
 		"category": "Ranged weapons",
 		"defname": "Eccentric_Gun_E9C"
 	},
@@ -2167,8 +2173,8 @@
 		"defname": "Meat_Elk"
 	},
 	{
-		"abr": "empgrenade",
-		"price": 35,
+		"abr": "empgrenades",
+		"price": 525,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeEMP"
 	},
@@ -2177,6 +2183,12 @@
 		"price": 600,
 		"category": "Explosives",
 		"defname": "rxRemoteEmpBomb"
+	},
+	{
+		"abr": "empshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_EMP"
 	},
 	{
 		"abr": "emu",
@@ -2425,6 +2437,12 @@
 		"defname": "FirefoamPopper"
 	},
 	{
+		"abr": "firefoamshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_Firefoam"
+	},
+	{
 		"abr": "fisher",
 		"price": 250,
 		"category": "Animal",
@@ -2438,15 +2456,21 @@
 	},
 	{
 		"abr": "flakjacket",
-		"price": 450,
+		"price": 483,
 		"category": "Apparel",
 		"defname": "Apparel_FlakJacket"
 	},
 	{
 		"abr": "flakpants",
-		"price": 268,
+		"price": 375,
 		"category": "Apparel",
 		"defname": "Apparel_FlakPants"
+	},
+	{
+		"abr": "flakvest",
+		"price": 375,
+		"category": "Apparel",
+		"defname": "Apparel_FlakVest"
 	},
 	{
 		"abr": "flake",
@@ -2521,8 +2545,8 @@
 		"defname": "Meat_Fox_Fennec"
 	},
 	{
-		"abr": "fraggrenade",
-		"price": 20,
+		"abr": "fraggrenades",
+		"price": 442,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeFrag"
 	},
@@ -2768,7 +2792,7 @@
 	},
 	{
 		"abr": "goldenbattery",
-		"price": -10,
+		"price": 833,
 		"category": "Power",
 		"defname": "Battery_Gold"
 	},
@@ -2852,7 +2876,7 @@
 	},
 	{
 		"abr": "greatbow",
-		"price": 94,
+		"price": 154,
 		"category": "Ranged weapons",
 		"defname": "Bow_Great"
 	},
@@ -2897,6 +2921,192 @@
 		"price": 1400,
 		"category": "Manufactured",
 		"defname": "WTH_GrowingModule"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": 875,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": 1292,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestkrudneppsinglebed",
+		"price": 172,
+		"category": "Furniture",
+		"defname": "KRUDNEPPSingleGuest"
+	},
+	{
+		"abr": "guestnanotechbed",
+		"price": 683,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_BedGuest"
+	},
+	{
+		"abr": "guestnanotechdoublebed",
+		"price": 1392,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_DoubleBedGuest"
+	},
+	{
+		"abr": "guestnanotechergonomicbed",
+		"price": 875,
+		"category": "Furniture",
+		"defname": "Bed_Ergonomic_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechergonomicdoublebed",
+		"price": 1292,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomic_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechhospitalbed",
+		"price": 1317,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_HospitalBedGuest"
+	},
+	{
+		"abr": "guestnanotechkrudneppsinglebed",
+		"price": 600,
+		"category": "Furniture",
+		"defname": "KRUDNEPPSingle_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechoperatingtable",
+		"price": 933,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTable_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechroyalbed",
+		"price": 2750,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_RoyalBedGuest"
+	},
+	{
+		"abr": "guestnanotechroyalposterbed",
+		"price": 2433,
+		"category": "Furniture",
+		"defname": "Bed_Kingsize_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechsimplebed",
+		"price": 567,
+		"category": "Furniture",
+		"defname": "Bed_Simple_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechslabneppdoublebed",
+		"price": 775,
+		"category": "Furniture",
+		"defname": "SLABNEPPDouble_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechsnoreggdoublebed",
+		"price": 942,
+		"category": "Furniture",
+		"defname": "SNOREGGDouble_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechsnoreggsinglebed",
+		"price": 700,
+		"category": "Furniture",
+		"defname": "SNOREGGSingle_NanoBedGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": 933,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestpilfurbed",
+		"price": 70,
+		"category": "Furniture",
+		"defname": "PILFURBedGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": 2433,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "guestslabneppdoublebed",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "SLABNEPPDoubleGuest"
+	},
+	{
+		"abr": "guestsnoreggdoublebed",
+		"price": 517,
+		"category": "Furniture",
+		"defname": "SNOREGGDoubleGuest"
+	},
+	{
+		"abr": "guestsnoreggsinglebed",
+		"price": 276,
+		"category": "Furniture",
+		"defname": "SNOREGGSingleGuest"
 	},
 	{
 		"abr": "guineapig",
@@ -3019,6 +3229,12 @@
 		"defname": "Apparel_HeavyShieldBelt"
 	},
 	{
+		"abr": "heavysmg",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "Gun_HeavySMG"
+	},
+	{
 		"abr": "hedgehog",
 		"price": 117,
 		"category": "Animal",
@@ -3035,6 +3251,12 @@
 		"price": 17,
 		"category": "Medicine",
 		"defname": "MedicineHerbal"
+	},
+	{
+		"abr": "high-explosiveshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_HighExplosive"
 	},
 	{
 		"abr": "hippopotamus",
@@ -3140,7 +3362,7 @@
 	},
 	{
 		"abr": "hound",
-		"price": 2750,
+		"price": 1250,
 		"category": "Animal",
 		"defname": "Mechanoid_Hound"
 	},
@@ -3218,31 +3440,31 @@
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
-		"price": 2508,
+		"price": 2008,
 		"category": "Security",
 		"defname": "TrapIED_AntigrainWarhead"
 	},
 	{
 		"abr": "iedemptrap",
-		"price": 383,
+		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_EMP"
 	},
 	{
 		"abr": "iedfirefoamtrap",
-		"price": 132,
+		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_Firefoam"
 	},
 	{
 		"abr": "iedincendiarytrap",
-		"price": 113,
+		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_Incendiary"
 	},
 	{
 		"abr": "iedtrap",
-		"price": 127,
+		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_HighExplosive"
 	},
@@ -3271,10 +3493,22 @@
 		"defname": "MeleeWeapon_Ikwa"
 	},
 	{
+		"abr": "incendiarylauncher",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "Gun_IncendiaryLauncher"
+	},
+	{
 		"abr": "incendiaryremoteexplosive",
 		"price": 133,
 		"category": "Explosives",
 		"defname": "rxRemoteFireBomb"
+	},
+	{
+		"abr": "incendiaryshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_Incendiary"
 	},
 	{
 		"abr": "industrialfermentingbarrel",
@@ -3359,12 +3593,6 @@
 		"price": 2,
 		"category": "Resource plants",
 		"defname": "RawJadeLeaf"
-	},
-	{
-		"abr": "javelins",
-		"price": 12,
-		"category": "Ranged weapons",
-		"defname": "Pila"
 	},
 	{
 		"abr": "jaw",
@@ -3530,7 +3758,7 @@
 	},
 	{
 		"abr": "kraken",
-		"price": 3250,
+		"price": 2000,
 		"category": "Animal",
 		"defname": "Mechanoid_Kraken"
 	},
@@ -3548,7 +3776,7 @@
 	},
 	{
 		"abr": "kunai",
-		"price": 7,
+		"price": 88,
 		"category": "Ranged weapons",
 		"defname": "RangedWeapon_Kunai"
 	},
@@ -3566,7 +3794,7 @@
 	},
 	{
 		"abr": "l20cchargelmg",
-		"price": 1800,
+		"price": 2917,
 		"category": "Ranged weapons",
 		"defname": "Eccentric_Gun_L20C"
 	},
@@ -3673,12 +3901,6 @@
 		"defname": "Apparello_Lederhose"
 	},
 	{
-		"abr": "lee-enfield",
-		"price": 330,
-		"category": "Ranged weapons",
-		"defname": "Gun_BoltActionRifle"
-	},
-	{
 		"abr": "leg",
 		"price": 2167,
 		"category": "Natural",
@@ -3721,6 +3943,12 @@
 		"defname": "Flaxcloth"
 	},
 	{
+		"abr": "lion",
+		"price": 667,
+		"category": "Animal",
+		"defname": "ACPLion"
+	},
+	{
 		"abr": "lionmeat",
 		"price": 3,
 		"category": "Meat",
@@ -3755,6 +3983,12 @@
 		"price": 5,
 		"category": "Textiles",
 		"defname": "ACPLlamaWool"
+	},
+	{
+		"abr": "lmg",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "Gun_LMG"
 	},
 	{
 		"abr": "logboiler",
@@ -3811,40 +4045,22 @@
 		"defname": "Meat_Lynx"
 	},
 	{
-		"abr": "m16a4",
-		"price": 642,
-		"category": "Ranged weapons",
-		"defname": "Gun_AssaultRifle"
-	},
-	{
-		"abr": "m1911",
-		"price": 281,
-		"category": "Ranged weapons",
-		"defname": "Gun_Autopistol"
-	},
-	{
-		"abr": "m24",
-		"price": 692,
-		"category": "Ranged weapons",
-		"defname": "Gun_SniperRifle"
-	},
-	{
 		"abr": "m3rosethorn",
 		"price": 450,
 		"category": "Melee weapons",
 		"defname": "Eccentric_Rosethorn"
 	},
 	{
-		"abr": "mac-10",
-		"price": 508,
-		"category": "Ranged weapons",
-		"defname": "Gun_MachinePistol"
-	},
-	{
 		"abr": "mace",
 		"price": 203,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Mace"
+	},
+	{
+		"abr": "machinepistol",
+		"price": 367,
+		"category": "Ranged weapons",
+		"defname": "Gun_MachinePistol"
 	},
 	{
 		"abr": "machiningtable",
@@ -3937,6 +4153,18 @@
 		"defname": "BlocksMarble"
 	},
 	{
+		"abr": "marinearmor",
+		"price": 3392,
+		"category": "Apparel",
+		"defname": "Apparel_PowerArmor"
+	},
+	{
+		"abr": "marinehelmet",
+		"price": 1058,
+		"category": "Headgear",
+		"defname": "Apparel_PowerArmorHelmet"
+	},
+	{
 		"abr": "marinehelmet",
 		"price": 667,
 		"category": "Rare equipment",
@@ -4016,7 +4244,7 @@
 	},
 	{
 		"abr": "medic'skevlarhelmet",
-		"price": 375,
+		"price": 533,
 		"category": "Apparello headgear",
 		"defname": "Apparello_Medihelmet"
 	},
@@ -4135,6 +4363,12 @@
 		"defname": "MiniSunLamp"
 	},
 	{
+		"abr": "minigun",
+		"price": 1933,
+		"category": "Ranged weapons",
+		"defname": "Gun_Minigun"
+	},
+	{
 		"abr": "miningexplosive",
 		"price": 108,
 		"category": "Explosives",
@@ -4183,8 +4417,8 @@
 		"defname": "MoisturePump"
 	},
 	{
-		"abr": "molotovcocktail",
-		"price": 12,
+		"abr": "molotovcocktails",
+		"price": 408,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeMolotov"
 	},
@@ -4243,10 +4477,10 @@
 		"defname": "MeleeWeapon_Morning_Star"
 	},
 	{
-		"abr": "mossberg500",
-		"price": 273,
-		"category": "Ranged weapons",
-		"defname": "Gun_PumpShotgun"
+		"abr": "mortar",
+		"price": 708,
+		"category": "Security",
+		"defname": "Turret_Mortar"
 	},
 	{
 		"abr": "muffalo",
@@ -4339,6 +4573,18 @@
 		"defname": "Ogre_NanoTech_DoubleBed"
 	},
 	{
+		"abr": "nanotechergonomicbed",
+		"price": 875,
+		"category": "Furniture",
+		"defname": "Bed_Ergonomic_NanoBed"
+	},
+	{
+		"abr": "nanotechergonomicdoublebed",
+		"price": 1292,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomic_NanoBed"
+	},
+	{
 		"abr": "nanotechfuel",
 		"price": 4,
 		"category": "Manufactured",
@@ -4357,10 +4603,34 @@
 		"defname": "Ogre_NanoTech_HospitalBed"
 	},
 	{
+		"abr": "nanotechkrudneppsinglebed",
+		"price": 600,
+		"category": "Furniture",
+		"defname": "KRUDNEPPSingle_NanoBed"
+	},
+	{
+		"abr": "nanotechoperatingtable",
+		"price": 933,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTable_NanoBed"
+	},
+	{
+		"abr": "nanotechpetsnorranimalbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "PETSNORR_NanoBed"
+	},
+	{
 		"abr": "nanotechroyalbed",
 		"price": 2750,
 		"category": "Furniture",
 		"defname": "Ogre_NanoTech_RoyalBed"
+	},
+	{
+		"abr": "nanotechroyalposterbed",
+		"price": 2433,
+		"category": "Furniture",
+		"defname": "Bed_Kingsize_NanoBed"
 	},
 	{
 		"abr": "nanotechshelf(1x1)",
@@ -4373,6 +4643,30 @@
 		"price": 324,
 		"category": "Furniture",
 		"defname": "Ogre_NanoTech_2x1_Shelf"
+	},
+	{
+		"abr": "nanotechsimplebed",
+		"price": 567,
+		"category": "Furniture",
+		"defname": "Bed_Simple_NanoBed"
+	},
+	{
+		"abr": "nanotechslabneppdoublebed",
+		"price": 775,
+		"category": "Furniture",
+		"defname": "SLABNEPPDouble_NanoBed"
+	},
+	{
+		"abr": "nanotechsnoreggdoublebed",
+		"price": 942,
+		"category": "Furniture",
+		"defname": "SNOREGGDouble_NanoBed"
+	},
+	{
+		"abr": "nanotechsnoreggsinglebed",
+		"price": 700,
+		"category": "Furniture",
+		"defname": "SNOREGGSingle_NanoBed"
 	},
 	{
 		"abr": "nerve-enhancer",
@@ -4670,7 +4964,7 @@
 	},
 	{
 		"abr": "p12chargepdw",
-		"price": 1017,
+		"price": 1075,
 		"category": "Ranged weapons",
 		"defname": "Eccentric_Gun_P12PDW"
 	},
@@ -4715,6 +5009,12 @@
 		"price": 1167,
 		"category": "Animal",
 		"defname": "ACPPanda"
+	},
+	{
+		"abr": "panther",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Panther"
 	},
 	{
 		"abr": "panthermeat",
@@ -4861,8 +5161,14 @@
 		"defname": "Leather_Pig"
 	},
 	{
+		"abr": "pila",
+		"price": 182,
+		"category": "Ranged weapons",
+		"defname": "Pila"
+	},
+	{
 		"abr": "pileofdirt",
-		"price": 0,
+		"price": 1,
 		"category": "Raw resources",
 		"defname": "VG_PileofDirt"
 	},
@@ -4916,7 +5222,7 @@
 	},
 	{
 		"abr": "plasteelbattery",
-		"price": -10,
+		"price": 1033,
 		"category": "Power",
 		"defname": "Battery_Plasteel"
 	},
@@ -5059,18 +5365,6 @@
 		"defname": "PowerArm"
 	},
 	{
-		"abr": "powerarmor",
-		"price": 3850,
-		"category": "Apparel",
-		"defname": "Apparel_PowerArmor"
-	},
-	{
-		"abr": "powerarmorhelmet",
-		"price": 1317,
-		"category": "Headgear",
-		"defname": "Apparel_PowerArmorHelmet"
-	},
-	{
 		"abr": "powerclaw",
 		"price": 6250,
 		"category": "Bionics",
@@ -5191,6 +5485,12 @@
 		"defname": "ACPEggPtarmiganUnfertilized"
 	},
 	{
+		"abr": "pumpshotgun",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "Gun_PumpShotgun"
+	},
+	{
 		"abr": "pumpkin",
 		"price": 2,
 		"category": "Vegetarian",
@@ -5237,12 +5537,6 @@
 		"price": 4333,
 		"category": "Nuclear",
 		"defname": "RimatomicsRTG"
-	},
-	{
-		"abr": "r-15chargerifle",
-		"price": 1375,
-		"category": "Ranged weapons",
-		"defname": "Gun_ChargeRifle"
 	},
 	{
 		"abr": "raccoon",
@@ -5324,7 +5618,7 @@
 	},
 	{
 		"abr": "recurvebow",
-		"price": 60,
+		"price": 110,
 		"category": "Ranged weapons",
 		"defname": "Bow_Recurve"
 	},
@@ -5405,6 +5699,12 @@
 		"price": 2833,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
+	},
+	{
+		"abr": "revolver",
+		"price": 226,
+		"category": "Ranged weapons",
+		"defname": "Gun_Revolver"
 	},
 	{
 		"abr": "rhinoceros",
@@ -5545,12 +5845,6 @@
 		"defname": "RUGDWA"
 	},
 	{
-		"abr": "rugerredhawk",
-		"price": 244,
-		"category": "Ranged weapons",
-		"defname": "Gun_Revolver"
-	},
-	{
 		"abr": "rugfirrug",
 		"price": 286,
 		"category": "Furniture",
@@ -5576,7 +5870,7 @@
 	},
 	{
 		"abr": "s8chargepistol",
-		"price": 525,
+		"price": 858,
 		"category": "Ranged weapons",
 		"defname": "Eccentric_Gun_S8P"
 	},
@@ -5591,12 +5885,6 @@
 		"price": 289,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Sabre"
-	},
-	{
-		"abr": "saiga12k",
-		"price": 458,
-		"category": "Ranged weapons",
-		"defname": "Gun_ChainShotgun"
 	},
 	{
 		"abr": "sake",
@@ -5792,7 +6080,7 @@
 	},
 	{
 		"abr": "shortbow",
-		"price": 34,
+		"price": 74,
 		"category": "Ranged weapons",
 		"defname": "Bow_Short"
 	},
@@ -5864,13 +6152,13 @@
 	},
 	{
 		"abr": "silverbattery",
-		"price": -10,
+		"price": 617,
 		"category": "Power",
 		"defname": "Battery_Silver"
 	},
 	{
 		"abr": "silverflowerpetals",
-		"price": 0,
+		"price": 1,
 		"category": "Resource plants",
 		"defname": "RawSilverLeaf"
 	},
@@ -5906,7 +6194,7 @@
 	},
 	{
 		"abr": "simplehelmet",
-		"price": 186,
+		"price": 153,
 		"category": "Headgear",
 		"defname": "Apparel_SimpleHelmet"
 	},
@@ -6119,6 +6407,12 @@
 		"price": 42,
 		"category": "Sweets",
 		"defname": "smoothie"
+	},
+	{
+		"abr": "sniperrifle",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "Gun_SniperRifle"
 	},
 	{
 		"abr": "snoreggdoublebed",
@@ -6571,12 +6865,6 @@
 		"defname": "CPD_Syrup"
 	},
 	{
-		"abr": "t-9incendiarylauncher",
-		"price": 1308,
-		"category": "Ranged weapons",
-		"defname": "Gun_IncendiaryLauncher"
-	},
-	{
 		"abr": "table",
 		"price": 62,
 		"category": "Furniture",
@@ -6755,6 +7043,12 @@
 		"price": 23,
 		"category": "Leathers",
 		"defname": "Leather_Thrumbo"
+	},
+	{
+		"abr": "tiger",
+		"price": 667,
+		"category": "Animal",
+		"defname": "ACPTiger"
 	},
 	{
 		"abr": "tigermeat",
@@ -6968,7 +7262,7 @@
 	},
 	{
 		"abr": "triplerocketlauncher",
-		"price": 967,
+		"price": 1667,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
 	},
@@ -7039,12 +7333,6 @@
 		"defname": "RimWriter_TableTypewriter"
 	},
 	{
-		"abr": "ump45",
-		"price": 550,
-		"category": "Ranged weapons",
-		"defname": "Gun_HeavySMG"
-	},
-	{
 		"abr": "undistilledvodka",
 		"price": 3,
 		"category": "Alcohol precursor",
@@ -7070,7 +7358,7 @@
 	},
 	{
 		"abr": "uraniumbattery",
-		"price": -10,
+		"price": 1033,
 		"category": "Power",
 		"defname": "Battery_Uranium"
 	},
@@ -7487,295 +7775,7 @@
 		"price": 650,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zweihander"
-	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestcryptosleepsuspender",
-		"price": 733,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": 875,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": 1292,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestkrudneppsinglebed",
-		"price": 172,
-		"category": "Furniture",
-		"defname": "KRUDNEPPSingleGuest"
-	},
-	{
-		"abr": "guestnanotechbed",
-		"price": 683,
-		"category": "Furniture",
-		"defname": "Ogre_NanoTech_BedGuest"
-	},
-	{
-		"abr": "guestnanotechdoublebed",
-		"price": 1392,
-		"category": "Furniture",
-		"defname": "Ogre_NanoTech_DoubleBedGuest"
-	},
-	{
-		"abr": "guestnanotechergonomicbed",
-		"price": 875,
-		"category": "Furniture",
-		"defname": "Bed_Ergonomic_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechergonomicdoublebed",
-		"price": 1292,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomic_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechhospitalbed",
-		"price": 1317,
-		"category": "Furniture",
-		"defname": "Ogre_NanoTech_HospitalBedGuest"
-	},
-	{
-		"abr": "guestnanotechkrudneppsinglebed",
-		"price": 600,
-		"category": "Furniture",
-		"defname": "KRUDNEPPSingle_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechoperatingtable",
-		"price": 933,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTable_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechroyalbed",
-		"price": 2750,
-		"category": "Furniture",
-		"defname": "Ogre_NanoTech_RoyalBedGuest"
-	},
-	{
-		"abr": "guestnanotechroyalposterbed",
-		"price": 2433,
-		"category": "Furniture",
-		"defname": "Bed_Kingsize_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechsimplebed",
-		"price": 567,
-		"category": "Furniture",
-		"defname": "Bed_Simple_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechslabneppdoublebed",
-		"price": 775,
-		"category": "Furniture",
-		"defname": "SLABNEPPDouble_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechsnoreggdoublebed",
-		"price": 942,
-		"category": "Furniture",
-		"defname": "SNOREGGDouble_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechsnoreggsinglebed",
-		"price": 700,
-		"category": "Furniture",
-		"defname": "SNOREGGSingle_NanoBedGuest"
-	},
-	{
-		"abr": "guestoperatingtable",
-		"price": 933,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "guestpilfurbed",
-		"price": 70,
-		"category": "Furniture",
-		"defname": "PILFURBedGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestroyalposterbed",
-		"price": 2433,
-		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "guestslabbed",
-		"price": 111,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
-	},
-	{
-		"abr": "guestslabneppdoublebed",
-		"price": 342,
-		"category": "Furniture",
-		"defname": "SLABNEPPDoubleGuest"
-	},
-	{
-		"abr": "guestsnoreggdoublebed",
-		"price": 517,
-		"category": "Furniture",
-		"defname": "SNOREGGDoubleGuest"
-	},
-	{
-		"abr": "guestsnoreggsinglebed",
-		"price": 276,
-		"category": "Furniture",
-		"defname": "SNOREGGSingleGuest"
-	},
-	{
-		"abr": "nanotechergonomicbed",
-		"price": 875,
-		"category": "Furniture",
-		"defname": "Bed_Ergonomic_NanoBed"
-	},
-	{
-		"abr": "nanotechergonomicdoublebed",
-		"price": 1292,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomic_NanoBed"
-	},
-	{
-		"abr": "nanotechkrudneppsinglebed",
-		"price": 600,
-		"category": "Furniture",
-		"defname": "KRUDNEPPSingle_NanoBed"
-	},
-	{
-		"abr": "nanotechoperatingtable",
-		"price": 933,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTable_NanoBed"
-	},
-	{
-		"abr": "nanotechpetsnorranimalbed",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "PETSNORR_NanoBed"
-	},
-	{
-		"abr": "nanotechroyalposterbed",
-		"price": 2433,
-		"category": "Furniture",
-		"defname": "Bed_Kingsize_NanoBed"
-	},
-	{
-		"abr": "nanotechsimplebed",
-		"price": 567,
-		"category": "Furniture",
-		"defname": "Bed_Simple_NanoBed"
-	},
-	{
-		"abr": "nanotechslabneppdoublebed",
-		"price": 775,
-		"category": "Furniture",
-		"defname": "SLABNEPPDouble_NanoBed"
-	},
-	{
-		"abr": "nanotechsnoreggdoublebed",
-		"price": 942,
-		"category": "Furniture",
-		"defname": "SNOREGGDouble_NanoBed"
-	},
-	{
-		"abr": "nanotechsnoreggsinglebed",
-		"price": 700,
-		"category": "Furniture",
-		"defname": "SNOREGGSingle_NanoBed"
-	},
-	{
-		"abr": "chargelance",
-		"price": 2258,
-		"category": "Ranged weapons",
-		"defname": "Gun_ChargeLance"
-	},
-	{
-		"abr": "cheetah",
-		"price": 667,
-		"category": "Animal",
-		"defname": "ACPCheetah"
-	},
-	{
-		"abr": "cougar",
-		"price": 667,
-		"category": "Animal",
-		"defname": "Cougar"
-	},
-	{
-		"abr": "lion",
-		"price": 667,
-		"category": "Animal",
-		"defname": "ACPLion"
-	},
-	{
-		"abr": "minigun",
-		"price": 1933,
-		"category": "Ranged weapons",
-		"defname": "Gun_Minigun"
-	},
-	{
-		"abr": "panther",
-		"price": 667,
-		"category": "Animal",
-		"defname": "Panther"
-	},
-	{
-		"abr": "tiger",
-		"price": 667,
-		"category": "Animal",
-		"defname": "ACPTiger"
 	}
 	],
-	"total": 1479
+	"total": 1296
 }
