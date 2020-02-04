@@ -7,37 +7,37 @@
 		"defname": "CeilingLamp"
 	},
 	{
-		"abr": "(old)ceilinglamp",
+		"abr": "(old)ceilinglampred",
 		"price": 49,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Red"
 	},
 	{
-		"abr": "(old)ceilinglamp",
+		"abr": "(old)ceilinglampblue",
 		"price": 49,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Blue"
 	},
 	{
-		"abr": "(old)ceilinglamp",
+		"abr": "(old)ceilinglampgreen",
 		"price": 49,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Green"
 	},
 	{
-		"abr": "(old)ceilinglamp",
+		"abr": "(old)ceilinglampviolet",
 		"price": 49,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Violet"
 	},
 	{
-		"abr": "(old)ceilinglamp",
+		"abr": "(old)ceilinglampyellow",
 		"price": 49,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Yellow"
 	},
 	{
-		"abr": "(old)ceilinglamp",
+		"abr": "(old)ceilinglamporange",
 		"price": 49,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Orange"
