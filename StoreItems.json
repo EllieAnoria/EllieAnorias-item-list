@@ -2923,192 +2923,6 @@
 		"defname": "WTH_GrowingModule"
 	},
 	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestcryptosleepsuspender",
-		"price": 733,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": 875,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": 1292,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestkrudneppsinglebed",
-		"price": 172,
-		"category": "Furniture",
-		"defname": "KRUDNEPPSingleGuest"
-	},
-	{
-		"abr": "guestnanotechbed",
-		"price": 683,
-		"category": "Furniture",
-		"defname": "Ogre_NanoTech_BedGuest"
-	},
-	{
-		"abr": "guestnanotechdoublebed",
-		"price": 1392,
-		"category": "Furniture",
-		"defname": "Ogre_NanoTech_DoubleBedGuest"
-	},
-	{
-		"abr": "guestnanotechergonomicbed",
-		"price": 875,
-		"category": "Furniture",
-		"defname": "Bed_Ergonomic_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechergonomicdoublebed",
-		"price": 1292,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomic_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechhospitalbed",
-		"price": 1317,
-		"category": "Furniture",
-		"defname": "Ogre_NanoTech_HospitalBedGuest"
-	},
-	{
-		"abr": "guestnanotechkrudneppsinglebed",
-		"price": 600,
-		"category": "Furniture",
-		"defname": "KRUDNEPPSingle_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechoperatingtable",
-		"price": 933,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTable_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechroyalbed",
-		"price": 2750,
-		"category": "Furniture",
-		"defname": "Ogre_NanoTech_RoyalBedGuest"
-	},
-	{
-		"abr": "guestnanotechroyalposterbed",
-		"price": 2433,
-		"category": "Furniture",
-		"defname": "Bed_Kingsize_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechsimplebed",
-		"price": 567,
-		"category": "Furniture",
-		"defname": "Bed_Simple_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechslabneppdoublebed",
-		"price": 775,
-		"category": "Furniture",
-		"defname": "SLABNEPPDouble_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechsnoreggdoublebed",
-		"price": 942,
-		"category": "Furniture",
-		"defname": "SNOREGGDouble_NanoBedGuest"
-	},
-	{
-		"abr": "guestnanotechsnoreggsinglebed",
-		"price": 700,
-		"category": "Furniture",
-		"defname": "SNOREGGSingle_NanoBedGuest"
-	},
-	{
-		"abr": "guestoperatingtable",
-		"price": 933,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "guestpilfurbed",
-		"price": 70,
-		"category": "Furniture",
-		"defname": "PILFURBedGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestroyalposterbed",
-		"price": 2433,
-		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "guestslabbed",
-		"price": 111,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
-	},
-	{
-		"abr": "guestslabneppdoublebed",
-		"price": 342,
-		"category": "Furniture",
-		"defname": "SLABNEPPDoubleGuest"
-	},
-	{
-		"abr": "guestsnoreggdoublebed",
-		"price": 517,
-		"category": "Furniture",
-		"defname": "SNOREGGDoubleGuest"
-	},
-	{
-		"abr": "guestsnoreggsinglebed",
-		"price": 276,
-		"category": "Furniture",
-		"defname": "SNOREGGSingleGuest"
-	},
-	{
 		"abr": "guineapig",
 		"price": 100,
 		"category": "Animal",
@@ -3374,7 +3188,7 @@
 	},
 	{
 		"abr": "humanleather",
-		"price": 7,
+		"price": 1,
 		"category": "Leathers",
 		"defname": "Leather_Human"
 	},
@@ -4573,18 +4387,6 @@
 		"defname": "Ogre_NanoTech_DoubleBed"
 	},
 	{
-		"abr": "nanotechergonomicbed",
-		"price": 875,
-		"category": "Furniture",
-		"defname": "Bed_Ergonomic_NanoBed"
-	},
-	{
-		"abr": "nanotechergonomicdoublebed",
-		"price": 1292,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomic_NanoBed"
-	},
-	{
 		"abr": "nanotechfuel",
 		"price": 4,
 		"category": "Manufactured",
@@ -4603,34 +4405,10 @@
 		"defname": "Ogre_NanoTech_HospitalBed"
 	},
 	{
-		"abr": "nanotechkrudneppsinglebed",
-		"price": 600,
-		"category": "Furniture",
-		"defname": "KRUDNEPPSingle_NanoBed"
-	},
-	{
-		"abr": "nanotechoperatingtable",
-		"price": 933,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTable_NanoBed"
-	},
-	{
-		"abr": "nanotechpetsnorranimalbed",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "PETSNORR_NanoBed"
-	},
-	{
 		"abr": "nanotechroyalbed",
 		"price": 2750,
 		"category": "Furniture",
 		"defname": "Ogre_NanoTech_RoyalBed"
-	},
-	{
-		"abr": "nanotechroyalposterbed",
-		"price": 2433,
-		"category": "Furniture",
-		"defname": "Bed_Kingsize_NanoBed"
 	},
 	{
 		"abr": "nanotechshelf(1x1)",
@@ -4643,30 +4421,6 @@
 		"price": 324,
 		"category": "Furniture",
 		"defname": "Ogre_NanoTech_2x1_Shelf"
-	},
-	{
-		"abr": "nanotechsimplebed",
-		"price": 567,
-		"category": "Furniture",
-		"defname": "Bed_Simple_NanoBed"
-	},
-	{
-		"abr": "nanotechslabneppdoublebed",
-		"price": 775,
-		"category": "Furniture",
-		"defname": "SLABNEPPDouble_NanoBed"
-	},
-	{
-		"abr": "nanotechsnoreggdoublebed",
-		"price": 942,
-		"category": "Furniture",
-		"defname": "SNOREGGDouble_NanoBed"
-	},
-	{
-		"abr": "nanotechsnoreggsinglebed",
-		"price": 700,
-		"category": "Furniture",
-		"defname": "SNOREGGSingle_NanoBed"
 	},
 	{
 		"abr": "nerve-enhancer",
@@ -6146,7 +5900,7 @@
 	},
 	{
 		"abr": "silver",
-		"price": 2,
+		"price": 1,
 		"category": "Raw resources",
 		"defname": "Silver"
 	},
@@ -6674,7 +6428,7 @@
 	},
 	{
 		"abr": "steel",
-		"price": 3,
+		"price": 1,
 		"category": "Raw resources",
 		"defname": "Steel"
 	},
@@ -7775,7 +7529,289 @@
 		"price": 650,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zweihander"
+	},
+	{
+		"abr": "mechanoidparts",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "WTH_MechanoidParts"
+	},
+	{
+		"abr": "blueprintbench",
+		"price": 267,
+		"category": "Production",
+		"defname": "BlueprintBench"
+	},
+	{
+		"abr": "industrialtechnologyblueprint",
+		"price": 1500,
+		"category": "Technology blueprints",
+		"defname": "TechnologyBlueprintIndustrial"
+	},
+	{
+		"abr": "medievaltechnologyblueprint",
+		"price": 1000,
+		"category": "Technology blueprints",
+		"defname": "TechnologyBlueprintMedieval"
+	},
+	{
+		"abr": "neolithictechnologyblueprint",
+		"price": 300,
+		"category": "Technology blueprints",
+		"defname": "TechnologyBlueprintNeolithic"
+	},
+	{
+		"abr": "spacertechnologyblueprint",
+		"price": 2000,
+		"category": "Technology blueprints",
+		"defname": "TechnologyBlueprintSpacer"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": 875,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": 1292,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestkrudneppsinglebed",
+		"price": 172,
+		"category": "Furniture",
+		"defname": "KRUDNEPPSingleGuest"
+	},
+	{
+		"abr": "guestnanotechbed",
+		"price": 683,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_BedGuest"
+	},
+	{
+		"abr": "guestnanotechdoublebed",
+		"price": 1392,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_DoubleBedGuest"
+	},
+	{
+		"abr": "guestnanotechergonomicbed",
+		"price": 875,
+		"category": "Furniture",
+		"defname": "Bed_Ergonomic_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechergonomicdoublebed",
+		"price": 1292,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomic_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechhospitalbed",
+		"price": 1317,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_HospitalBedGuest"
+	},
+	{
+		"abr": "guestnanotechkrudneppsinglebed",
+		"price": 600,
+		"category": "Furniture",
+		"defname": "KRUDNEPPSingle_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechoperatingtable",
+		"price": 933,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTable_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechroyalbed",
+		"price": 2750,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_RoyalBedGuest"
+	},
+	{
+		"abr": "guestnanotechroyalposterbed",
+		"price": 2433,
+		"category": "Furniture",
+		"defname": "Bed_Kingsize_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechsimplebed",
+		"price": 567,
+		"category": "Furniture",
+		"defname": "Bed_Simple_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechslabneppdoublebed",
+		"price": 775,
+		"category": "Furniture",
+		"defname": "SLABNEPPDouble_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechsnoreggdoublebed",
+		"price": 942,
+		"category": "Furniture",
+		"defname": "SNOREGGDouble_NanoBedGuest"
+	},
+	{
+		"abr": "guestnanotechsnoreggsinglebed",
+		"price": 700,
+		"category": "Furniture",
+		"defname": "SNOREGGSingle_NanoBedGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": 933,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestpilfurbed",
+		"price": 70,
+		"category": "Furniture",
+		"defname": "PILFURBedGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": 2433,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "guestslabneppdoublebed",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "SLABNEPPDoubleGuest"
+	},
+	{
+		"abr": "guestsnoreggdoublebed",
+		"price": 517,
+		"category": "Furniture",
+		"defname": "SNOREGGDoubleGuest"
+	},
+	{
+		"abr": "guestsnoreggsinglebed",
+		"price": 276,
+		"category": "Furniture",
+		"defname": "SNOREGGSingleGuest"
+	},
+	{
+		"abr": "nanotechergonomicbed",
+		"price": 875,
+		"category": "Furniture",
+		"defname": "Bed_Ergonomic_NanoBed"
+	},
+	{
+		"abr": "nanotechergonomicdoublebed",
+		"price": 1292,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomic_NanoBed"
+	},
+	{
+		"abr": "nanotechkrudneppsinglebed",
+		"price": 600,
+		"category": "Furniture",
+		"defname": "KRUDNEPPSingle_NanoBed"
+	},
+	{
+		"abr": "nanotechoperatingtable",
+		"price": 933,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTable_NanoBed"
+	},
+	{
+		"abr": "nanotechpetsnorranimalbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "PETSNORR_NanoBed"
+	},
+	{
+		"abr": "nanotechroyalposterbed",
+		"price": 2433,
+		"category": "Furniture",
+		"defname": "Bed_Kingsize_NanoBed"
+	},
+	{
+		"abr": "nanotechsimplebed",
+		"price": 567,
+		"category": "Furniture",
+		"defname": "Bed_Simple_NanoBed"
+	},
+	{
+		"abr": "nanotechslabneppdoublebed",
+		"price": 775,
+		"category": "Furniture",
+		"defname": "SLABNEPPDouble_NanoBed"
+	},
+	{
+		"abr": "nanotechsnoreggdoublebed",
+		"price": 942,
+		"category": "Furniture",
+		"defname": "SNOREGGDouble_NanoBed"
+	},
+	{
+		"abr": "nanotechsnoreggsinglebed",
+		"price": 700,
+		"category": "Furniture",
+		"defname": "SNOREGGSingle_NanoBed"
 	}
 	],
-	"total": 1296
+	"total": 1425
 }
